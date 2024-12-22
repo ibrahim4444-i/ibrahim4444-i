@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ibrahim 👋
 
-<!--
-**ibrahim4444-i/ibrahim4444-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Ibrahim, a passionate developer with a keen interest in software development and open-source contributions. I enjoy working on challenging projects and constantly learning new technologies.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Artificial Intelligence (AI)**
+- 💬 Ask me about **AI**
+- 📫 How to reach me: **You can reach me via email: ibrahimmusai4444@gmail.com**
+- ⚡ Fun fact: **😎For now, I talk more than my action!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**:JavaScript
+
+## GitHub Stats
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim4444-i&show_icons=true&theme=radical)
+
+## Connect with Me
+- [Twitter](https://x.com/TheProfIB)
+- [Email](ibrahimmusai4444@gmail.com)
+
+Thank you for visiting my profile!
