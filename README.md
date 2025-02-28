@@ -15,6 +15,6 @@ I'm Ibrahim, a passionate developer with a keen interest in software development
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim4444-i&show_icons=true&theme=radical)
 
 ## Connect with Me
-- [Email](ibrahimmusai4444@gmail.com)
+- **via pull request**
 
 Thank you for visiting my profile!
