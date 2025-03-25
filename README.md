@@ -5,7 +5,7 @@ I'm Ibrahim, a passionate developer with a keen interest in software development
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 - 💬 Ask me about **AI**
-- 📫 How to reach me: **Email**:ibmu4455@gmail.com
+- 📫 How to reach me: **Email**: ibmu4455@gmail.com
 - ⚡ Fun fact: **😎For now, I talk more than my action!**
 
 
