@@ -10,7 +10,7 @@ I'm Ibrahim, a passionate developer with a keen interest in software development
 
 
 ## Skills
-- **Languages**: JavaScript, HTML/CSS
+- **Languages**: JavaScript, HTML/CSS, Python
 
 ## GitHub Stats
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim4444-i&show_icons=true&theme=radical)
